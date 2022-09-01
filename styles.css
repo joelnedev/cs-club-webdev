@@ -1,0 +1,15 @@
+/* its named flag cause this kids favorite word is flag for some reason. */
+#flag {
+	color: red;
+}
+.pole {
+	color: purple;
+}
+.michael-jordan {
+	color: pink;
+}
+
+p#flag {
+	background-color: aqua;
+	text-align: center;
+}
